@@ -1,0 +1,4 @@
+baseURL = "https://computerwitch.me" 
+languageCode = "en-us" 
+title = "A Witchy Blog 🧙‍♀" 
+theme = "stack" 
