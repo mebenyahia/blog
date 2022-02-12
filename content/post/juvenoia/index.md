@@ -4,11 +4,10 @@ title = "Juvenoia"
 date = "2016-12-10"
 description = ""
 categories = [
-    "Creative Writing",
+    "Misc",
 ]
 tags = [
-    "Game",
-    "Childhood",
+    "Generational Conflict",
 ]
 
 image = "emile-guillemot-Olo2khVaTmk-unsplash.jpg"
