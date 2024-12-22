@@ -1,4 +1,4 @@
-baseURL = "https://mebenyahia.github.io/blog/" 
+baseURL = "https://mebenyahia.github.io/" 
 languageCode = "en-us" 
 title = "A Witchy Blog 🧙‍♀" 
 theme = "stack" 
